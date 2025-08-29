@@ -1,4 +1,4 @@
-````markdown
+
 # Urban Food Waste Analysis  
 
 This repository contains the project **Urban Food Waste Analysis**, which investigates patterns of food waste in cities and proposes actionable solutions aligned with **SDG 12: Responsible Consumption and Production**. Using datasets from **Kaggle** and tools like **Python, Jupyter Notebook, Tableau, and QGIS**, the study explores trends, builds predictive models, and designs strategies to reduce urban food waste.  
