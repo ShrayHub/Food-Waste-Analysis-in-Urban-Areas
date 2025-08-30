@@ -1,8 +1,8 @@
-# 📊 Visualisations – Results  
+# Visualisations – Results  
 
 This folder contains the key visualisations generated during the **Food Waste Analysis in Urban Areas** project. Each plot highlights a different aspect of food waste patterns across regions and countries.  
 
-## 📈 List of Visualisations  
+##  List of Visualisations  
 
 ### 1. 10 Largest Combined Per Capita Per-Year Food Waste  
 Shows the top 10 countries with the highest per-capita food waste (kg/year).  
